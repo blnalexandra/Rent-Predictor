@@ -10,5 +10,5 @@ Simple ML project using regression for predicting rent prices for houses in Indi
 - MAE is not in the [0,1] range but considering rent prices can reach millions, an error of 2100 is not significant and the model performs well
 
 ### Notes
-- First ML project
+- First ML project using regression
 - Dataset from Kaggle: House Rent Prediction Dataset
