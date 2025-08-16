@@ -1,4 +1,4 @@
-## House rent predictor in India
+# House rent predictor in India
 Simple ML project using regression for predicting rent prices for houses in India
 
 ### What I used
