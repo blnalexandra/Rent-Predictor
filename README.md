@@ -1,4 +1,4 @@
-# House rent predictor in India
+# House Rent Predictor in India
 Simple ML project using regression for predicting rent prices for houses in India
 
 ### What I used
@@ -7,7 +7,7 @@ Simple ML project using regression for predicting rent prices for houses in Indi
 
 ### Performance
 - R^2 score ~0.90
-- MSE and MAE values are a bit high due to some outliers that have an extremely high rent for a small amount of square feet, but either way the model performs well
+- MAE is not in the [0,1] range but considering rent prices can reach millions, an error of 2100 is not significant and the model performs well
 
 ### Notes
 - First ML project
