@@ -7,7 +7,7 @@ Simple ML project using regression for predicting rent prices for houses in Indi
 
 ### Performance
 - R^2 score ~0.90
-- MAE is not in the [0,1] range but considering rent prices can reach millions, an error of 2100 is not significant and the model performs well
+- MAE score is high due to an outlier with and extremely high rent for what it offers, otherwise the model performs well
 
 ### Notes
 - First ML project using regression
